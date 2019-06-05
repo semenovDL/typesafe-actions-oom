@@ -1,0 +1,13 @@
+{
+  "name": "typesafe-actions-oom",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "redux": "^4.0.1",
+    "typesafe-actions": "^4.4.0"
+  },
+  "devDependencies": {
+    "typescript": "^3.5.1"
+  }
+}
